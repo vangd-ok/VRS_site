@@ -164,12 +164,19 @@
   height: 220px;
 
 }
-.card-product{
+.card_resum {
   border: 0;
   background-color: #eee;
   margin-bottom: 30px;
   padding: 1.2rem;
   height: 420px;
+  border-radius: 1em;
+}
+.card-product{
+  border: 0;
+  background-color: #eee;
+  margin-bottom: 30px;
+  padding: 1.2rem;
   border-radius: 1em;
 
   p{
@@ -247,8 +254,9 @@
 
 
 /*=================== offer section start  ====================*/
+
 .offer{
-  background: url('../img/home/parallax-bg.png') right center no-repeat;
+ 
   background-size: cover;
 
   @media(min-width: 1200px){

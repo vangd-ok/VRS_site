@@ -1,0 +1,33 @@
+/*=================== font family ====================*/
+$title-font: 'Oswald', sans-serif;
+$text-font: 'Roboto', sans-serif;
+
+
+/*=================== color variations ====================*/
+$title-color: #222222;
+$text-color: #6b8063ff;
+$primary-color: #3a412cff;
+$primary-color-blurry: #d49a7aff;
+$white: rgb(247, 254, 249);
+$link-color: #d49a7aff;
+
+$primary-color2	: rgb(207, 3, 6);
+$primary-color3	: #d49a7aff;
+$title-color	: #222222;
+$text-color		: #6b8063ff;
+$baseColor: #980d0fff; 
+$dip: #222222;
+$pfont: #6b8063ff;
+$white			: rgb(247, 254, 249);
+$black			: #000;
+$offwhite: rgb(247, 254, 249);
+
+
+/*=================== fonts ====================*/
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+
+
+
+
+
